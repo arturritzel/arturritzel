@@ -1,4 +1,4 @@
-### welcome to tui's paradise 🐸
+### welcome to tui's library 🐸
 ---
 - 🌹 17yo, any pronouns
 
