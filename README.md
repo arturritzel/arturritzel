@@ -1,8 +1,5 @@
 ### welcome to tui's library 🐸
 ---
-- 🌹 18yo, any pronouns
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuisapo&show_icons=true&theme=dracula&count_private=true)
 
