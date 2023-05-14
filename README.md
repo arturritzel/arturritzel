@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=tui's+biblioteca 🐸)](https://git.io/typing-svg)
+[![Typing
+SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=tui's+biblioteca 🐸)](https://git.io/typing-svg)
 ###   
 #### "um dia eu vou organizar isso", "isso ficou horrível!" e "isso tá incompleto" são só algumas das frases que vocês vão ver por aqui. mas eu garanto que (quase) tudo aqui é funcional e pode ser usado pra aprendizado próprio ~~ou pra estudar pra sua prova prática que vai acontecer daqui 20 minutos. boa sorte~~.
 ---
