@@ -3,7 +3,7 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=github.com/artur
 <br>
 arturritzel@gmail.com
 <br>
-https://www.linkedin.com/in/arturritzel/
+[linkedin](https://www.linkedin.com/in/arturritzel/)
 ###
 #### sinta-se livre pra fazer perguntas. mensagem, email, sinal de fumaça.
 ---
