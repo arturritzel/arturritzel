@@ -1,7 +1,7 @@
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=github.com/arturritzel)](https://github.com/arturritzel)
 <br>
-arturritzel@gmail.com
+<br>
 <br>
   <a href="https://www.linkedin.com/in/arturritzel">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
