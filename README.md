@@ -1,5 +1,6 @@
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=github.com/arturritzel)](https://github.com/arturritzel)
+<br>
 arturritzel@gmail.com
 https://www.linkedin.com/in/arturritzel/
 ###
