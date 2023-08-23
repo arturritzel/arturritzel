@@ -2,7 +2,6 @@
 SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=github.com/arturritzel)](https://github.com/arturritzel)
 <br>
 <br>
-<br>
 #### sinta-se livre pra fazer perguntas. mensagem, email, sinal de fumaça.
 <br>
 
