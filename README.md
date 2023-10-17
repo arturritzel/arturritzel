@@ -1,9 +1,8 @@
 [![Typing
 SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=github.com/arturritzel)](https://github.com/arturritzel)
 
-### sinta-se livre pra fazer perguntas. mensagem, email, sinal de fumaça.
+####sinta-se livre pra fazer perguntas. mensagem, email, sinal de fumaça.
 
-<br>
 
   <a href="https://www.linkedin.com/in/arturritzel">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
