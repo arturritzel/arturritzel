@@ -15,4 +15,4 @@ SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=github.com/artur
 
 ---
 
-![snake gif](https://github.com/arturritzel/arturritzel/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/arturritzel/arturritzel/blob/output/github-contribution-grid-snake.svg)
