@@ -12,8 +12,8 @@ sinta-se livre pra fazer perguntas. mensagem, email, sinal de fumaça.
 
 ---
 
-[![Estatísticas do GitHub](https://github-stats-extended.vercel.app/api?username=arturritzel&rank_icon=github&theme=dracula&title_color=a7dbb5&border_color=a7dbb5)](https://github.com/arturritzel)
-[![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=arturritzel&layout=compact&theme=dracula&title_color=a7dbb5&border_color=a7dbb5)](https://github.com/arturritzel)
+[![Estatísticas do GitHub](./profile/stats.svg)](https://github.com/arturritzel)
+[![Linguagens mais usadas](./profile/top-langs.svg)](https://github.com/arturritzel)
 
 ---
 
