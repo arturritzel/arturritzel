@@ -22,7 +22,7 @@ jobs:
     # Usa o PAT_STATS quando o secret existir, que e o que permite contar
     # repositorio privado. Sem ele, cai no GITHUB_TOKEN e gera so dado publico.
       - name: Gera o card de estatisticas
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@e52ecffb9b500c9f8532aff89937973d64706446 # v2.0.2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&rank_icon=github&theme=dracula&title_color=a7dbb5&border_color=a7dbb5&include_all_commits=true&count_private=true
@@ -31,7 +31,7 @@ jobs:
           fail_on_error: "true"
 
       - name: Gera o card de linguagens
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@e52ecffb9b500c9f8532aff89937973d64706446 # v2.0.2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&title_color=a7dbb5&border_color=a7dbb5
