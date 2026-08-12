@@ -34,7 +34,10 @@ jobs:
         uses: stats-organization/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&title_color=a7dbb5&border_color=a7dbb5
+          # Os dois notebooks de estudo sao 2,5 MB de output de celula salvo
+          # (graficos em base64), contra 42 KB de codigo. Sem excluir, eles
+          # sozinhos viram 81% do card e afogam o resto.
+          options: username=${{ github.repository_owner }}&layout=compact&theme=dracula&title_color=a7dbb5&border_color=a7dbb5&exclude_repo=house-pricing-predictor,heart-disease-predictor
           path: profile/top-langs.svg
           token: ${{ secrets.PAT_STATS || secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
