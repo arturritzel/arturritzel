@@ -1,4 +1,4 @@
-# https://dev.to/henriquelopes42/como-adicionar-o-snake-game-jogo-da-cobrinha-no-seu-perfil-do-github-40m2
+# https://github.com/Platane/snk
 
 name: Snake Game
 
@@ -8,35 +8,29 @@ on:
     - cron: "0 */5 * * *" # 5 horas
 
   workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
-    # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
+    # Gera a cobrinha a partir do grid de contribuições.
+    # Uma versão clara e uma escura, pra alternar conforme o tema do GitHub.
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: arturritzel
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
 
-      - run: git status
-
-      # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+    # Publica os arquivos gerados na branch output.
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
