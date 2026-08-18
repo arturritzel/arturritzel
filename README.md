@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=github.com/arturritzel)](https://github.com/arturritzel)
 
-dev na new byte, estudante de sistemas de informação, brasileiro.
+dev na new byte e estudante de sistemas de informação.
 
-mexo com backend e integrações no trabalho. aqui embaixo mora o resto: microcontrolador, um pouco de ml, e coisas que fiz pra entender como funcionam.
+mexo com backend e integrações no trabalho. aqui embaixo mora o resto: microcontrolador, um pouco de ml e coisas que fiz pra entender como funcionam.
 
 sinta-se livre pra fazer perguntas. mensagem, email, sinal de fumaça.
 
