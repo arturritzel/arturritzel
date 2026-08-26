@@ -12,7 +12,7 @@ sinta-se livre pra fazer perguntas. mensagem, email, sinal de fumaça.
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arturritzel&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arturritzel"/>
 
 [![Estatísticas do GitHub](./profile/stats.svg)](https://github.com/arturritzel)
 [![Linguagens mais usadas](./profile/top-langs.svg)](https://github.com/arturritzel)
